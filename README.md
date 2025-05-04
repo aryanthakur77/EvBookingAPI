@@ -1,2 +1,2 @@
 # EvBookingAPI
-MFW Major Project
+MFO Major Project
